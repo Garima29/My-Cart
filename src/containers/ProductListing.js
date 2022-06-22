@@ -23,7 +23,7 @@ const ProductListing = () => {
     },[])
    
     return (
-        <div>
+        <div className="ui container grid">
             <ProductComponent/>
         </div>
     )
